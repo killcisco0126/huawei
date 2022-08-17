@@ -1,3 +1,3 @@
 package huawei
 
-var Name string = "华为"
+var Name string = "xuwei"
