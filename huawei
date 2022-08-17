@@ -1,0 +1,3 @@
+package huawei
+
+var name string = "华为"
